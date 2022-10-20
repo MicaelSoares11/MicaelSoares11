@@ -5,17 +5,17 @@
 <ul>
   <li>Segurança da Informação/Ciber Segurança (Muito Auto)✨</li>
   <li>Python (Auto)✨</li>
-  <li>HTML/CSS (Auto)✨</li>
-  <li>JavaScript (Mediano)✨</li>
+  <li>HTML/CSS (Muito Auto)✨</li>
+  <li>JavaScript (Mediano/Auto)✨</li>
   <li>Java (Mediano/Auto)✨</li>
   <li>PHP (Mínimo)</li>
   <li>C# (Mínimo)</li>
-  <li>C (Auto)✨</li>
+  <li>C (Auto)</li>
   <li>Portugol (Auto)</li>
   <li>Pascal(Auto)</li>
-  <li>SQL</li>
-  <li>PowerShell</li>
-  <li>TypeScript</li>
+  <li>SQL(Auto)</li>
+  <li>PowerShell(Auto)</li>
+  <li>TypeScript(Mediano)</li>
 </ul>
 
 
