@@ -1,22 +1,21 @@
-<h1> Oi 👋, eu sou Micael Soares do Nascimento<h1>
+<h1> Oi, eu sou Micael Soares do Nascimento<h1>
 <p> Estudante do IFRJ - Curso Técnico em Informática </p>
 <h3> Minhas Áreas (níveis de conhecimento):<h3>
 
 <ul>
-  <li>Segurança da Informação/Ciber Segurança (Muito Auto)</li>
-  <li>Python (Auto)</li>
-  <li>HTML/CSS (Auto)</li>
-  <li>JavaScript (Mediano)</li>
-  <li>Java (Mediano/Auto)</li>
+  <li>Segurança da Informação/Ciber Segurança (Muito Auto)✨</li>
+  <li>Python (Auto)✨</li>
+  <li>HTML/CSS (Auto)✨</li>
+  <li>JavaScript (Mediano)✨</li>
+  <li>Java (Mediano/Auto)✨</li>
   <li>PHP (Mínimo)</li>
   <li>C# (Mínimo)</li>
-  <li>C (Auto)</li>
+  <li>C (Auto)✨</li>
   <li>Portugol (Auto)</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Pascal(Auto)</li>
+  <li>SQL</li>
+  <li>PowerShell</li>
+  <li>TypeScript</li>
 </ul>
 
 
