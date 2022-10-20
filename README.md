@@ -1,7 +1,6 @@
-### Hi there 👋
-<h1> Oi, eu sou Micael Soares do Nascimento<h1>
+<h1> Oi 👋, eu sou Micael Soares do Nascimento<h1>
 <p> Estudante do IFRJ - Curso Técnico em Informática </p>
-<h2> Minhas Áreas (níveis de conhecimento):<h2>
+<h3> Minhas Áreas (níveis de conhecimento):<h3>
 
 <ul>
   <li>Segurança da Informação/Ciber Segurança (Muito Auto)</li>
