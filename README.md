@@ -1,21 +1,21 @@
 # Oi, eu sou Micael Soares do Nascimento
 <p> Estudante do IFRJ - Curso Técnico em Informática </p>
-## Minhas Áreas (níveis de conhecimento):
+# Minhas Áreas (níveis de conhecimento):
 
 
--Segurança da Informação/Ciber Segurança (Muito Auto)✨
--Python (Auto)✨
--HTML/CSS (Muito Auto)✨
--JavaScript (Mediano/Auto)✨
--Java (Mediano/Auto)✨
--PHP (Mínimo)
--C# (Mínimo)
--C (Auto)
--Portugol (Auto)
--Pascal(Auto)
--SQL(Auto)
--PowerShell(Auto)
--TypeScript(Mediano)
+- Segurança da Informação/Ciber Segurança (Muito Auto)✨
+- Python (Auto)✨
+- HTML/CSS (Muito Auto)✨
+- JavaScript (Mediano/Auto)✨
+- Java (Mediano/Auto)✨
+- PHP (Mínimo)
+- C# (Mínimo)
+- C (Auto)
+- Portugol (Auto)
+- Pascal(Auto)
+- SQL(Auto)
+- PowerShell(Auto)
+- TypeScript(Mediano)
 
 
 
