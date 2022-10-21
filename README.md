@@ -1,6 +1,6 @@
 # Oi, eu sou Micael Soares do Nascimento
 <p> Estudante do IFRJ - Curso Técnico em Informática </p>
-# Minhas Áreas (níveis de conhecimento):
+<h3> Minhas Áreas (níveis de conhecimento): </h3>
 
 
 - Segurança da Informação/Ciber Segurança (Muito Auto)✨
