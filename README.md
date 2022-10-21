@@ -1,7 +1,31 @@
-<h1> Oi, eu sou Micael Soares do Nascimento<h1>
+# Oi, eu sou Micael Soares do Nascimento
 <p> Estudante do IFRJ - Curso Técnico em Informática </p>
-<h3> Minhas Áreas (níveis de conhecimento):<h3>
+## Minhas Áreas (níveis de conhecimento):
 
+
+-Segurança da Informação/Ciber Segurança (Muito Auto)✨
+-Python (Auto)✨
+-HTML/CSS (Muito Auto)✨
+-JavaScript (Mediano/Auto)✨
+-Java (Mediano/Auto)✨
+-PHP (Mínimo)
+-C# (Mínimo)
+-C (Auto)
+-Portugol (Auto)
+-Pascal(Auto)
+-SQL(Auto)
+-PowerShell(Auto)
+-TypeScript(Mediano)
+
+
+
+
+
+
+
+
+
+<!--
 <ul>
   <li>Segurança da Informação/Ciber Segurança (Muito Auto)✨</li>
   <li>Python (Auto)✨</li>
@@ -20,13 +44,6 @@
 
 
 
-
-
-
-
-
-
-<!--
 **MicaelSoares11/MicaelSoares11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
