@@ -17,11 +17,11 @@
 - PowerShell(Auto)
 - TypeScript(Mediano)
 
-<h2>Meus hobies</h2>
+<h2>Meus hobbies</h2>
 
-
-
-
+- Amo programar/desenvolver Sites, apps, jogos, prgramas e projetos nos meus tempos vagos.
+- Jogo muitos jogos competitivos, principalmente os que que exigem muita movimentação, estratégia e uma mira perfeita(Gosto de sensi alta).
+- Gosto muito de ficar digitando, em breve chegarei aos (200wpm).
 
 
 
