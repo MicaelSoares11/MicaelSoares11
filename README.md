@@ -8,7 +8,7 @@
 - HTML/CSS (Muito Auto)✨
 - JavaScript (Mediano/Auto)✨
 - Java (Mediano/Auto)✨
-- PHP (Mínimo)
+- PHP (Mediano)
 - C# (Mínimo)
 - C (Auto)
 - Portugol (Auto)
