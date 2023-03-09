@@ -7,12 +7,10 @@
 - Python (Auto)✨
 - HTML/CSS (Muito Auto)✨
 - JavaScript (Mediano/Auto)✨
-- Java (Mediano/Auto)✨
-- PHP (Mediano)
+- Java (Auto)✨
+- PHP (Auto)✨
 - C# (Mínimo)
 - C (Auto)
-- Portugol (Auto)
-- Pascal(Auto)
 - SQL(Auto)
 - PowerShell(Auto)
 - TypeScript(Mediano)
@@ -26,22 +24,6 @@
 
 
 <!--
-<ul>
-  <li>Segurança da Informação/Ciber Segurança (Muito Auto)✨</li>
-  <li>Python (Auto)✨</li>
-  <li>HTML/CSS (Muito Auto)✨</li>
-  <li>JavaScript (Mediano/Auto)✨</li>
-  <li>Java (Mediano/Auto)✨</li>
-  <li>PHP (Mínimo)</li>
-  <li>C# (Mínimo)</li>
-  <li>C (Auto)</li>
-  <li>Portugol (Auto)</li>
-  <li>Pascal(Auto)</li>
-  <li>SQL(Auto)</li>
-  <li>PowerShell(Auto)</li>
-  <li>TypeScript(Mediano)</li>
-</ul>
-
 
 
 **MicaelSoares11/MicaelSoares11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
