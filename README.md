@@ -21,12 +21,6 @@
 - Jogo muitos jogos competitivos, principalmente os que que exigem muita movimentação, estratégia e uma mira perfeita(Gosto de sensi alta).
 - Gosto muito de ficar digitando, em breve chegarei aos (200wpm).
 
-<div align="center">
-  <a href="https://github.com/MicaelSoares11">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=MicaelSoares11&show_icons=true&theme=codeSTACKr&count_private=true"/>
-  <img height="180em" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelSoares11&layout=compact&theme=codeSTACKr"/>
-</div>
-
 <!--
 
 
