@@ -19,7 +19,7 @@
 
 - Amo programar/desenvolver Sites, apps, jogos, prgramas e projetos nos meus tempos vagos.
 - Jogo muitos jogos competitivos, principalmente os que que exigem muita movimentação, estratégia e uma mira perfeita(Gosto de sensi alta).
-- Gosto muito de ficar digitando, em breve chegarei aos (200wpm).
+- Gosto muito de ficar digitando, em breve chegarei aos (200 WPM) atualmente estou nos (102 WPM).
 
 <!--
 
