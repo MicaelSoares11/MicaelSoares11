@@ -1,4 +1,7 @@
-# Oi, eu sou Micael Soares do Nascimento
+# Meu github atual é MicaelSoares7
+
+
+<!--
 <p> Estudante do IFRJ - Curso Técnico em Informática </p>
 <h3> Minhas Áreas (níveis de conhecimento): </h3>
 
@@ -21,7 +24,7 @@
 - Jogo muitos jogos competitivos, principalmente os que que exigem muita movimentação, estratégia e uma mira perfeita(Gosto de sensi alta).
 - Gosto muito de ficar digitando, em breve chegarei aos (200 WPM) atualmente estou nos (102 WPM).
 
-<!--
+
 
 
 **MicaelSoares11/MicaelSoares11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
